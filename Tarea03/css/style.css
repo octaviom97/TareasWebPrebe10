@@ -1,0 +1,172 @@
+.todo{
+	position: relative;
+	left: 100px;
+}
+
+.titulo{
+	background: #398f2b;
+	border: solid;
+	border-radius: 10px;
+	border-color: green; 
+	width: 200px
+
+}
+
+.autor{
+	background: #6ee25b;
+	border: ridge;
+	border-radius: 10px;
+	border-color: green; 
+	width: 230px;
+	padding: 15px: 
+}
+
+.principal{
+	padding: 10px;
+	width: 400px;
+	background:  #d3f9ac; 
+	border: solid;
+	border-radius: 10px;
+	border-width: 5px;
+	border-color: green;
+	justify-content: center;
+	text-align: center;
+}
+
+.cater1{
+	padding-bottom: 10px;
+}
+
+.imgcater{
+	height: 150px;
+	width: 150px;
+}
+
+.num{
+	background: #b3ff67;
+	/*position: relative;
+	top: 0px;*/
+	padding: 0px;
+	border-radius: 10px;
+	border: ridge;
+	border-color: green;
+
+}
+
+.tipo{
+	background: #98f43a;
+	/*position: relative;
+	top: 5px;*/
+	border: ridge;
+	border-radius: 10px;
+	border-color: green;
+	padding-bottom: 10px;: 
+}
+
+.imgtipo{
+	width: 70px;
+	height: 20px;
+}
+
+.habil{
+	background: #75c91e;
+	/*position: relative;
+	top: 10px;*/
+	border-radius: 10px;
+	border: ridge;
+	border-color: green;
+}
+
+.evols{
+	background: #92aff3;
+	position: absolute;
+	top: 0px;
+	left: 600px;
+	text-align: center;
+	border: solid;
+	border-color: blue;
+	border-radius: 10px;
+	border-width: 5px;
+	padding: 15px;
+}
+
+.meta{
+	border: groove;
+	border-color: blue;
+	background: #3a69d8; 
+	width: 400px;
+	padding-bottom: 15px;
+	border-radius: 10px;
+}
+
+.pmeta,.pbutter{
+	background: #e6ecfa;
+	border: solid; 
+	border-color: #89a5e9;
+	border-radius: 10px;
+}
+
+.butter{
+	padding-top: 0px; 
+	border: groove;
+	border-color: blue;
+	background: #3a69d8; 
+	width: 400px;
+	border-radius: 10px;
+}
+
+.imgbutter,.imgmeta{
+	height: 200px;
+	width: 200px;
+}
+
+.gith{
+	background: #6ee25b;
+	height: 40px;
+	width: 200px;
+	border: ridge;
+	border-color: green;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	position: absolute;
+	top: 150px;
+	left: 255px;
+
+}
+
+.info{
+	background: #cff1c9 ;
+	text-align: center;
+	border: groove;
+	border-color: green;
+	border-width: 10px;
+	padding-bottom: 10px;
+	width: 1000px;
+
+}
+
+.imghedor{
+	border: solid;
+
+}
+
+.gif1{
+	border: solid;
+	border-color: green;
+	position: absolute;
+	top: 60px;
+	left: 1200px;
+	height: 300px;
+	width: 400px;
+}
+
+.gif2{
+	border: solid;
+	border-color: green;
+	position: absolute;
+	top: 550px;
+	left: 1200px;
+	height: 300px;
+	width: 400px;
+}
