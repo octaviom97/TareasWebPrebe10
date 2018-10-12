@@ -1,0 +1,28 @@
+body{
+	background: black;
+}
+h1{
+	color: white;
+}
+.figura{
+	position: relative;
+	width: 0;
+	height: 0;
+	border-right: 100px solid transparent;
+	border-top: 100px solid yellow;
+	border-left: 100px solid yellow;
+	border-bottom: 100px solid yellow;
+	border-top-right-radius: 100px;
+	border-top-left-radius: 100px;
+	border-bottom-right-radius: 100px;
+	border-bottom-left-radius: 100px;
+	animation-name: pacman;  
+	animation-duration: 6s;
+}
+@keyframes pacman{
+    0%   {background-color:yellow; left:0px; top:0px;}
+    25%  {background-color:black; left:500px; top:0px;}
+    50%  {background-color:yellow; left:500px; top:300px;}
+    75%  {background-color:black; left:0px; top: 300px; right:500px;}
+    100% {background-color:yellow; left:0px; top:0px;}
+}

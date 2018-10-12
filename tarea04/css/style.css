@@ -1,0 +1,25 @@
+body{
+	background: #fffcce;
+}
+
+.img{
+	height: 200px;
+	width: 1350px;
+}
+
+.encuesta{
+	background: white;
+	border: solid;
+	border-radius: 20px; 
+	width: 350px;
+}
+
+.contenido{
+	border-top: ridge;
+	text-align: left;
+	padding-left: 15px;
+}
+
+p[class]{
+	text-align: center;
+}
